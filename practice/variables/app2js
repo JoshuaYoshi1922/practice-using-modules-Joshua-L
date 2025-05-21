@@ -1,5 +1,0 @@
-const stringUtils = require('./stringUtils');
-
-console.log(stringUtils.capitalize(' ')); 
-console.log(stringUtils.reverse('poophead'));
-console.log(stringUtils.contains('lets go pikachue', 'Go'));
